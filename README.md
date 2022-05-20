@@ -12,7 +12,7 @@ The profile page includes a header which comprises of a logo and a navigation ba
 
 * **User-friendly web interface **
 
-![](./assets/pics/interface.png)
+![](./Assets/pics/interface.png)
 
 
 
@@ -20,20 +20,20 @@ The profile page includes a header which comprises of a logo and a navigation ba
 
 * **Prompt shown after user click the button**
 
-![](./assets/pics/length-prompt.png)
+![](./Assets/pics/length-prompt.png)
 
-![](./assets/pics/uppercase-prompt.png)
+![](./Assets/pics/uppercase-prompt.png)
 
-![](./assets/pics/lowercase-prompt.png)
+![](./Assets/pics/lowercase-prompt.png)
 
-![](./assets/pics/number-prompt.png)
+![](./Assets/pics/number-prompt.png)
 
-![](./assets/pics/special-character-prompt.png)
+![](./Assets/pics/special-character-prompt.png)
 
 
 ### <ins> Password is generated immediately after user's input</ins>
 
-![](./assets/pics/password-shown.png)
+![](./Assets/pics/password-shown.png)
 
 ## Link to Work
 
